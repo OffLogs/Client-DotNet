@@ -22,6 +22,17 @@ Offlogs.*/bld/
 Offlogs.*/[Bb]in/
 Offlogs.*/[Oo]bj/
 
+Serilog.*/[Dd]ebug/
+Serilog.*/[Dd]ebugPublic/
+Serilog.*/[Rr]elease/
+Serilog.*/[Rr]eleases/
+Serilog.*/x64/
+Serilog.*/x86/
+Serilog.*/build/
+Serilog.*/bld/
+Serilog.*/[Bb]in/
+Serilog.*/[Oo]bj/
+
 # Visual Studio 2015 cache/options directory
 .vs/
 

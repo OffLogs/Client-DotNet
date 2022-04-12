@@ -1,10 +1,6 @@
 ﻿using Offlogs.Client.Tests.Fakers;
 using OffLogs.Client;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xunit;
 
 namespace Offlogs.Client.Tests.IntegrationTests.AspNetCore3
